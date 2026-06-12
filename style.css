@@ -2,10 +2,10 @@
 
 :root{
 --branco: white;
---cor-de-fundo: #b588f0;
---fundo-senha: #abc9ec;
+--cor-de-fundo: #a9cbff;
+--fundo-senha: #557ead;
 --fundo-texto: #001E40;
---borda: #eb9bd7;
+--borda: #ce9aec;
 --roboto: 'Roboto', sans-serif;
 --roboto-mono: 'Roboto Mono', monospace;
 }
